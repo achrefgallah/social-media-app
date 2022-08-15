@@ -3,7 +3,12 @@ import React from "react";
 const Trending = () => {
     return (
         <di>
-            Trending
+            <h1>Trending</h1>
+            <br />
+            <h1>Trending</h1>
+            <br />
+            <h1>Trending</h1>
+            <br />
         </di>
     );
 };

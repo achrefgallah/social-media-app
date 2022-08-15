@@ -17,6 +17,7 @@ const UploadImg = () => {
 
     dispatch(uploadPicture(data, userData._id))
   };
+  
 
   return (
     <form action="" onSubmit={handlePicture} className="upload-pic">
